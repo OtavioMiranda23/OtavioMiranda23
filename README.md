@@ -1,7 +1,6 @@
 
 - 🔭 I’m currently working on Java e React.
-- 🌱 I’m currently learning Desenvolvimento Fullstack.
-
+- 🌱 I’m currently learning Java.
 - 😄 Pronouns: ele/dele
  <div style="display: block">
 	<div>
