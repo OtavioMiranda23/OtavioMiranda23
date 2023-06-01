@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently working on Java e React.
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working on Java, React e Flutter.
+- 🌱 I’m currently learning Java e Flutter.
 - 😄 Pronouns: ele/dele
  <div style="display: block">
 	<div>
@@ -14,6 +14,7 @@
    
   <div style="display: inline_block"><br>
     	<img align="center" alt-"Otavio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+	 <img align="center" alt-"Otavio-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     	<img align="center" alt-"Otavio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     	<img align="center" alt-"Otavio-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	<img align="center" alt-"Otavio-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
