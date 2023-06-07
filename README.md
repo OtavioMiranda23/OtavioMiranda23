@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on Java, React e Flutter.
+- 🔭 I’m currently working on Java, React, Flutter and Blender.
 - 🌱 I’m currently learning Java e Flutter.
 - 😄 Pronouns: ele/dele
  <div style="display: block">
