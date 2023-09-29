@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently working on Java, React, Flutter and Blender.
-- 🌱 I’m currently learning Next.js and Flutter.
+- 🔭 I’m currently working on Javascript, React and Java.
+- 🌱 I’m currently learning Elixir.
 - 😄 Pronouns: ele/dele
  <div style="display: block">
 	<div>
