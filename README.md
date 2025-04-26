@@ -1,7 +1,6 @@
 
-- 🔭 I’m currently working on Javascript, React and Java.
-- 🌱 I’m currently learning Elixir.
-- 😄 Pronouns: ele/dele
+- 🔭 I’m currently working on Java, C#.
+- 🌱 I’m currently learning C.
  <div style="display: block">
 	<div>
 	    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviomiranda23&show_icons=true&theme=gruvbox"
